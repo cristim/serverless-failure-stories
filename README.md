@@ -7,6 +7,7 @@ Most recent publications on top.
 * [Mo’ developers, mo’ problems: How serverless has trouble with teams](https://jaxenter.com/how-serverless-trouble-teams-150705.html)
 * [Beware “RunOnStartup” in Azure Functions – a serverless horror story](http://blog.tdwright.co.uk/2018/09/06/beware-runonstartup-in-azure-functions-a-serverless-horror-story/)
 * [Serverless: A lesson learned. The hard way.](https://sourcebox.be/blog/2017/08/07/serverless-a-lesson-learned-the-hard-way/)
+* [Serverless: 15% slower and 8x more expensive](http://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/)
 
 ## Why
 
